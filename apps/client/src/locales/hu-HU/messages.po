@@ -8,7 +8,7 @@ msgstr ""
 "Language: hu\n"
 "Project-Id-Version: reactive-resume\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-10 05:50\n"
+"PO-Revision-Date: 2024-08-16 00:08\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -508,7 +508,7 @@ msgstr "Adja meg a kétfaktoros hitelesítés engedélyezésekor elmentett 10 bi
 
 #: apps/client/src/pages/builder/sidebars/left/sections/custom/section.tsx:63
 msgid "Enter Phosphor Icon"
-msgstr ""
+msgstr "Írja be egy Phosphor-ikon nevét"
 
 #: apps/client/src/pages/dashboard/settings/_dialogs/two-factor.tsx:170
 msgid "Enter the 6-digit code from your authenticator app to verify that 2FA has been setup correctly."
@@ -1260,7 +1260,7 @@ msgstr "Küldjön üzenetet"
 
 #: apps/client/src/pages/builder/sidebars/left/sections/shared/section-options.tsx:96
 msgid "Separate Links"
-msgstr ""
+msgstr "Különálló linkek"
 
 #: apps/client/src/components/user-options.tsx:32
 #: apps/client/src/pages/dashboard/_components/sidebar.tsx:92
@@ -1327,7 +1327,7 @@ msgstr "Feliratkozás"
 
 #: apps/client/src/pages/auth/login/page.tsx:74
 msgid "Signing in via email is currently disabled by the administrator."
-msgstr ""
+msgstr "Az e-mail címmel történő bejelentkezés jelenleg le van tiltva a rendszergazda által."
 
 #: apps/client/src/pages/auth/register/page.tsx:82
 msgid "Signups are currently disabled by the administrator."
